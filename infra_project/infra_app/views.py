@@ -2,7 +2,7 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse('Теперь точно получилось!')
+    return HttpResponse('Теперь точно получилось!!')
 
 
 def second_page(request):
